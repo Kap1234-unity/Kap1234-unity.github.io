@@ -1,65 +1,33 @@
 {
-  "servers": [
+  "name": "WO",
+  "subtitle": "A source for my app, WO.",
+  "description": "WWWWWWWWOOOOOOOoOO",
+  "iconURL": "https://i.imgur.com/aVfoMSZ.png",
+  "website": "",
+  "patreonURL": "",
+  "tintColor": "#ffad5b",
+  "featuredApps": [
+    "com.usbmm9imbj.2wu8hx604z"
+  ],
+  "apps": [
     {
-      "name": "SideStore",
-      "address": "https://ani.sidestore.io"
-    },
-    {
-      "name": "SideStore (.app)",
-      "address": "https://ani.sidestore.app"
-    },
-    {
-      "name": "SideStore (.zip)",
-      "address": "https://ani.sidestore.zip"
-    },
-    {
-      "name": "SideStore (.xyz)",
-      "address": "https://ani.846969.xyz"
-    },
-    {
-      "name": "nythepegasus",
-      "address": "https://ani.npeg.us"
-    },
-    {
-      "name": "Macley",
-      "address": "http://5.249.163.88:6969"
-    },
-    {
-      "name": "SeasiDev",
-      "address": "https://anisette.seasi.dev"
-    },
-    {
-      "name": "SteX",
-      "address": "https://ani.xu30.top"
-    },
-    {
-      "name": "owoellen",
-      "address": "https://ani.owoellen.rocks"
-    },
-    {
-      "name": "iDH Server",
-      "address": "https://ani.idevicehacked.com"
-    },
-    {
-      "name": "neoarz",
-      "address": "https://ani.neoarz.xyz"
-    },
-    {
-      "name": "pythonplayer123",
-      "address": "https://ani3server.fly.dev"
-    },
-    {
-      "name": "Jayden's Server",
-      "address": "https://ani.jaydenha.uk"
-    },
-    {
-      "name": "crystall1nedev's server",
-      "address": "https://anisette.crystall1ne.dev"
-    },
-    {
-      "name": "WO",   //doesn't really matter unless you're sharing this server list with someone else
-      "address": "https://anisette-v3-server-u064.onrender.com"
+      "name": "WO",
+      "bundleIdentifier": "com.usbmm9imbj.2wu8hx604z",
+      "marketplaceID": "",
+      "developerName": "Kap1234",
+      "subtitle": "My funne jigsaw game.",
+      "localizedDescription": "This is an awesome app only available on SideStore.",
+      "iconURL": "https://i.imgur.com/Xe7r0ch.png",
+      "tintColor": "#ffad5b",
+      "category": "entertainment",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
     }
   ],
-  "cache": "https://servers.sidestore.io/servers.json.hash"
+  "news": []
 }
