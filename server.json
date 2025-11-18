@@ -1,0 +1,33 @@
+{
+  "name": "WO",
+  "subtitle": "A source for my app, WO.",
+  "description": "WWWWWWWWOOOOOOOoOO",
+  "iconURL": "https://i.imgur.com/aVfoMSZ.png",
+  "website": "",
+  "patreonURL": "",
+  "tintColor": "#ffad5b",
+  "featuredApps": [
+    "com.usbmm9imbj.2wu8hx604z"
+  ],
+  "apps": [
+    {
+      "name": "WO",
+      "bundleIdentifier": "com.usbmm9imbj.2wu8hx604z",
+      "marketplaceID": "",
+      "developerName": "Kap1234",
+      "subtitle": "My funne jigsaw game.",
+      "localizedDescription": "This is an awesome app only available on SideStore.",
+      "iconURL": "https://i.imgur.com/Xe7r0ch.png",
+      "tintColor": "#ffad5b",
+      "category": "entertainment",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
